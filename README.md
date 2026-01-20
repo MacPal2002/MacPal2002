@@ -28,7 +28,6 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacPal2002&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MacPal2002&theme=tokyonight&hide_border=true" height="180" />
 </p>
