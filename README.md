@@ -27,7 +27,7 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MacPal2002&show_icons=true&theme=tokyonight&hide_border=true" alt="Maciej's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacPal2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
+
+| General Stats | Most Used Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=MacPal2002&show_icons=true&theme=tokyonight&hide_border=true" height="195" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacPal2002&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" height="195" /> |
