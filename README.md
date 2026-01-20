@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi, I'm Maciej 🚀
 
-<!--
-**MacPal2002/MacPal2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**From Poland 🇵🇱** 
+### 👨‍💻 About Me
+- 🎓 Studying **Economic Informatics** at [ANS Nowy Targ](https://ans-nt.edu.pl//).
+- 📜 Certified **IT Technician** (Graduate of [ZSHT Zakopane](https://zsht.pl/)).
+- 🚀 **Aspiring Backend Developer**: Currently expanding my skills in **Python (Flask, Django)** and **TypeScript (Google Cloud Functions)**.
+- 📱 Learning by doing: Developed an Android app with a TS-based serverless backend to practice cloud integration.
+- 🌐 Experienced in configuring and managing network infrastructure (**MikroTik, UniFi, Cisco**).
+- 🖥️ Skilled in managing **Windows Server** and **Debian/Linux** environments.
+- 🛠️ Enthusiast of **DIY projects** and hardware tinkering.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Infrastructure & Systems
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-gray?style=flat-square&logo=routeros&logoColor=white) 
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=white) 
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MacPal2002&show_icons=true&theme=tokyonight&hide_border=true" alt="Maciej's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacPal2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
