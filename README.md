@@ -1,7 +1,7 @@
 # Hi, I'm Maciej 🚀
 
 **From Poland 🇵🇱** 
-### 👨‍💻 About Me
+### About Me
 - 🎓 Studying **Economic Informatics** at [ANS Nowy Targ](https://ans-nt.edu.pl//).
 - 📜 Certified **IT Technician** (Graduate of [ZSHT Zakopane](https://zsht.pl/)).
 - 🚀 **Aspiring Backend Developer**: Currently expanding my skills in **Python (Flask, Django)** and **TypeScript (Google Cloud Functions)**.
